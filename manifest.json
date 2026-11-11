@@ -1,0 +1,865 @@
+{
+  "schemaVersion": 1,
+  "exportedAt": "2026-11-11T13:40:17.350Z",
+  "buildId": "8lqTcgz5v7aA44envZFy8VjnWOkRVQhhUB6F9SH4Ss4",
+  "nextBuildId": "dzlXlQygWWJnT0ccVDsM7",
+  "webcrackVersion": "2.16.0",
+  "count": 21,
+  "chunks": [
+    {
+      "type": "variant",
+      "variant": 0,
+      "source": ".next/static/chunks/411.325df508e441f5ad.js",
+      "withoutWebcrack": "proteced-chunks/without-webcrack/variant-00__411.325df508e441f5ad__without-webcrack.js",
+      "withWebcrack": "proteced-chunks/with-webcrack/variant-00__411.325df508e441f5ad__with-webcrack.js",
+      "rawSha256": "113ad4d4c8691ac2cc605f2155ff986eb24cd421b86545b40412dace775aae07",
+      "webcrackSha256": "b20e7bddca3e843dfa8566cee127307193a8a43891935cc2a536c4960d3935b9",
+      "webcrack": {
+        "completed": true,
+        "attempts": [
+          {
+            "jsx": true,
+            "mode": "full",
+            "completed": false,
+            "error": "TypeError: Property expression of JSXExpressionContainer expected node to be of a type [\"Expression\",\"JSXEmptyExpression\"] but instead got \"SpreadElement\""
+          },
+          {
+            "jsx": false,
+            "mode": "full-fallback",
+            "completed": true
+          }
+        ],
+        "durationMs": 480.864,
+        "memoryBefore": {
+          "rss": 88735744,
+          "heapTotal": 34160640,
+          "heapUsed": 24515808,
+          "external": 1957914,
+          "arrayBuffers": 22931
+        },
+        "memoryAfter": {
+          "rss": 322781184,
+          "heapTotal": 234094592,
+          "heapUsed": 138176488,
+          "external": 1957918,
+          "arrayBuffers": 22895
+        },
+        "outputBytes": 654405
+      }
+    },
+    {
+      "type": "variant",
+      "variant": 1,
+      "source": ".next/static/chunks/977.64c7e73753a749df.js",
+      "withoutWebcrack": "proteced-chunks/without-webcrack/variant-01__977.64c7e73753a749df__without-webcrack.js",
+      "withWebcrack": "proteced-chunks/with-webcrack/variant-01__977.64c7e73753a749df__with-webcrack.js",
+      "rawSha256": "6bfcaadf939a2971b6519c812fe99c34069076d09de68fa1069bf17a22c4687a",
+      "webcrackSha256": "7b544e3e2486c81d11c29f0697c74afbd2e4727b7ed464197c21ec633babe656",
+      "webcrack": {
+        "completed": true,
+        "attempts": [
+          {
+            "jsx": true,
+            "mode": "full",
+            "completed": false,
+            "error": "TypeError: Property expression of JSXExpressionContainer expected node to be of a type [\"Expression\",\"JSXEmptyExpression\"] but instead got \"SpreadElement\""
+          },
+          {
+            "jsx": false,
+            "mode": "full-fallback",
+            "completed": true
+          }
+        ],
+        "durationMs": 450.54,
+        "memoryBefore": {
+          "rss": 88178688,
+          "heapTotal": 34177024,
+          "heapUsed": 24120816,
+          "external": 1957914,
+          "arrayBuffers": 22931
+        },
+        "memoryAfter": {
+          "rss": 303218688,
+          "heapTotal": 241319936,
+          "heapUsed": 122988968,
+          "external": 1957918,
+          "arrayBuffers": 22895
+        },
+        "outputBytes": 669224
+      }
+    },
+    {
+      "type": "variant",
+      "variant": 2,
+      "source": ".next/static/chunks/10.5f5c905ee1876f8b.js",
+      "withoutWebcrack": "proteced-chunks/without-webcrack/variant-02__10.5f5c905ee1876f8b__without-webcrack.js",
+      "withWebcrack": "proteced-chunks/with-webcrack/variant-02__10.5f5c905ee1876f8b__with-webcrack.js",
+      "rawSha256": "c70be69723d6bf56fec9e69cc463ec2cfcd43e316e8ff07893eb24f0808ac736",
+      "webcrackSha256": "f39c17a14f261972beec8071984c0b161595972f572de7432506694c3ed16b81",
+      "webcrack": {
+        "completed": true,
+        "attempts": [
+          {
+            "jsx": true,
+            "mode": "full",
+            "completed": false,
+            "error": "TypeError: Property expression of JSXExpressionContainer expected node to be of a type [\"Expression\",\"JSXEmptyExpression\"] but instead got \"SpreadElement\""
+          },
+          {
+            "jsx": false,
+            "mode": "full-fallback",
+            "completed": true
+          }
+        ],
+        "durationMs": 457.196,
+        "memoryBefore": {
+          "rss": 88178688,
+          "heapTotal": 34160640,
+          "heapUsed": 24180792,
+          "external": 1957914,
+          "arrayBuffers": 22931
+        },
+        "memoryAfter": {
+          "rss": 300875776,
+          "heapTotal": 242352128,
+          "heapUsed": 117326880,
+          "external": 1957918,
+          "arrayBuffers": 22895
+        },
+        "outputBytes": 674309
+      }
+    },
+    {
+      "type": "variant",
+      "variant": 3,
+      "source": ".next/static/chunks/523.95b7a60e73aaeb9f.js",
+      "withoutWebcrack": "proteced-chunks/without-webcrack/variant-03__523.95b7a60e73aaeb9f__without-webcrack.js",
+      "withWebcrack": "proteced-chunks/with-webcrack/variant-03__523.95b7a60e73aaeb9f__with-webcrack.js",
+      "rawSha256": "1c25025c36b7a78dbfe76b5d678801ca569f538c2956fe70e7cbfe8c3945e607",
+      "webcrackSha256": "b8b9280348a5ab4847a60cbdbc4a19717838cbc204814cf3cc7c0c7a5364aac6",
+      "webcrack": {
+        "completed": true,
+        "attempts": [
+          {
+            "jsx": true,
+            "mode": "full",
+            "completed": false,
+            "error": "TypeError: Property expression of JSXExpressionContainer expected node to be of a type [\"Expression\",\"JSXEmptyExpression\"] but instead got \"SpreadElement\""
+          },
+          {
+            "jsx": false,
+            "mode": "full-fallback",
+            "completed": true
+          }
+        ],
+        "durationMs": 486.438,
+        "memoryBefore": {
+          "rss": 88064000,
+          "heapTotal": 33914880,
+          "heapUsed": 23969480,
+          "external": 1957914,
+          "arrayBuffers": 22931
+        },
+        "memoryAfter": {
+          "rss": 333381632,
+          "heapTotal": 256016384,
+          "heapUsed": 131143720,
+          "external": 1957918,
+          "arrayBuffers": 22895
+        },
+        "outputBytes": 658559
+      }
+    },
+    {
+      "type": "variant",
+      "variant": 4,
+      "source": ".next/static/chunks/884.dc81b7a076f2cf76.js",
+      "withoutWebcrack": "proteced-chunks/without-webcrack/variant-04__884.dc81b7a076f2cf76__without-webcrack.js",
+      "withWebcrack": "proteced-chunks/with-webcrack/variant-04__884.dc81b7a076f2cf76__with-webcrack.js",
+      "rawSha256": "4106918f074cc7c9a13c9c5729352a99d48dfc58c1b65ab72804f5cd12f44e95",
+      "webcrackSha256": "668b2fa0b4f67e8769f6b9bc80da6c0cf4447e983dd5906655ba396e4c522bdd",
+      "webcrack": {
+        "completed": true,
+        "attempts": [
+          {
+            "jsx": true,
+            "mode": "full",
+            "completed": false,
+            "error": "TypeError: Property expression of JSXExpressionContainer expected node to be of a type [\"Expression\",\"JSXEmptyExpression\"] but instead got \"SpreadElement\""
+          },
+          {
+            "jsx": false,
+            "mode": "full-fallback",
+            "completed": true
+          }
+        ],
+        "durationMs": 454.032,
+        "memoryBefore": {
+          "rss": 88915968,
+          "heapTotal": 33914880,
+          "heapUsed": 23933504,
+          "external": 1957914,
+          "arrayBuffers": 22931
+        },
+        "memoryAfter": {
+          "rss": 302825472,
+          "heapTotal": 240812032,
+          "heapUsed": 125764904,
+          "external": 1957918,
+          "arrayBuffers": 22895
+        },
+        "outputBytes": 676124
+      }
+    },
+    {
+      "type": "variant",
+      "variant": 5,
+      "source": ".next/static/chunks/373.73a41e5eabf91a8e.js",
+      "withoutWebcrack": "proteced-chunks/without-webcrack/variant-05__373.73a41e5eabf91a8e__without-webcrack.js",
+      "withWebcrack": "proteced-chunks/with-webcrack/variant-05__373.73a41e5eabf91a8e__with-webcrack.js",
+      "rawSha256": "285f54cb5f07b63f883f76f19d1de2f0eb3cca3ce2c01efbabf11fc412022fe0",
+      "webcrackSha256": "2f3ba3b30d9192ce250bebd2c4f03c3851d5f99ea89f17a4d83762e6f34ffe09",
+      "webcrack": {
+        "completed": true,
+        "attempts": [
+          {
+            "jsx": true,
+            "mode": "full",
+            "completed": false,
+            "error": "TypeError: Property expression of JSXExpressionContainer expected node to be of a type [\"Expression\",\"JSXEmptyExpression\"] but instead got \"SpreadElement\""
+          },
+          {
+            "jsx": false,
+            "mode": "full-fallback",
+            "completed": true
+          }
+        ],
+        "durationMs": 447.235,
+        "memoryBefore": {
+          "rss": 88653824,
+          "heapTotal": 34177024,
+          "heapUsed": 24352688,
+          "external": 1957914,
+          "arrayBuffers": 22931
+        },
+        "memoryAfter": {
+          "rss": 314343424,
+          "heapTotal": 243859456,
+          "heapUsed": 130011688,
+          "external": 1957918,
+          "arrayBuffers": 22895
+        },
+        "outputBytes": 671997
+      }
+    },
+    {
+      "type": "variant",
+      "variant": 6,
+      "source": ".next/static/chunks/646.60da2dc263029f1e.js",
+      "withoutWebcrack": "proteced-chunks/without-webcrack/variant-06__646.60da2dc263029f1e__without-webcrack.js",
+      "withWebcrack": "proteced-chunks/with-webcrack/variant-06__646.60da2dc263029f1e__with-webcrack.js",
+      "rawSha256": "8674897fb17918bbf51ca36b859432af71fbdf495af3527e3c605c6addeaffa3",
+      "webcrackSha256": "f6a313f57f2dbf17ad4ccbdf81e6cc71c2b107f7b5dbaf34a4aa3c34be49370e",
+      "webcrack": {
+        "completed": true,
+        "attempts": [
+          {
+            "jsx": true,
+            "mode": "full",
+            "completed": false,
+            "error": "TypeError: Property expression of JSXExpressionContainer expected node to be of a type [\"Expression\",\"JSXEmptyExpression\"] but instead got \"SpreadElement\""
+          },
+          {
+            "jsx": false,
+            "mode": "full-fallback",
+            "completed": true
+          }
+        ],
+        "durationMs": 511.83,
+        "memoryBefore": {
+          "rss": 88539136,
+          "heapTotal": 33947648,
+          "heapUsed": 24022296,
+          "external": 1957914,
+          "arrayBuffers": 22931
+        },
+        "memoryAfter": {
+          "rss": 333234176,
+          "heapTotal": 249675776,
+          "heapUsed": 125048856,
+          "external": 1957918,
+          "arrayBuffers": 22895
+        },
+        "outputBytes": 680653
+      }
+    },
+    {
+      "type": "variant",
+      "variant": 7,
+      "source": ".next/static/chunks/191.2e3245cb3e92452b.js",
+      "withoutWebcrack": "proteced-chunks/without-webcrack/variant-07__191.2e3245cb3e92452b__without-webcrack.js",
+      "withWebcrack": "proteced-chunks/with-webcrack/variant-07__191.2e3245cb3e92452b__with-webcrack.js",
+      "rawSha256": "da6a01cbb6ba5b4e2836468a4983a1f0f32723379bcbed3f138100fc5c887193",
+      "webcrackSha256": "73a94a18a2c5356012b163fcc17bbaa13b6f304c216602c4a7bb647b15f5eb20",
+      "webcrack": {
+        "completed": true,
+        "attempts": [
+          {
+            "jsx": true,
+            "mode": "full",
+            "completed": false,
+            "error": "TypeError: Property expression of JSXExpressionContainer expected node to be of a type [\"Expression\",\"JSXEmptyExpression\"] but instead got \"SpreadElement\""
+          },
+          {
+            "jsx": false,
+            "mode": "full-fallback",
+            "completed": true
+          }
+        ],
+        "durationMs": 434.465,
+        "memoryBefore": {
+          "rss": 88539136,
+          "heapTotal": 33914880,
+          "heapUsed": 24327112,
+          "external": 1957914,
+          "arrayBuffers": 22931
+        },
+        "memoryAfter": {
+          "rss": 305938432,
+          "heapTotal": 246824960,
+          "heapUsed": 123872144,
+          "external": 1957918,
+          "arrayBuffers": 22895
+        },
+        "outputBytes": 677969
+      }
+    },
+    {
+      "type": "variant",
+      "variant": 8,
+      "source": ".next/static/chunks/48.1e101873f2b51719.js",
+      "withoutWebcrack": "proteced-chunks/without-webcrack/variant-08__48.1e101873f2b51719__without-webcrack.js",
+      "withWebcrack": "proteced-chunks/with-webcrack/variant-08__48.1e101873f2b51719__with-webcrack.js",
+      "rawSha256": "8ef8d87a882e9ec6233f424fd7b91568a1f5a4cab3902539dfa2e56d700e900c",
+      "webcrackSha256": "ae9bfde4172f204faa60275eb9f1dffc3da44a32fe3e2efded50f1ee04da5dd4",
+      "webcrack": {
+        "completed": true,
+        "attempts": [
+          {
+            "jsx": true,
+            "mode": "full",
+            "completed": false,
+            "error": "TypeError: Property expression of JSXExpressionContainer expected node to be of a type [\"Expression\",\"JSXEmptyExpression\"] but instead got \"SpreadElement\""
+          },
+          {
+            "jsx": false,
+            "mode": "full-fallback",
+            "completed": true
+          }
+        ],
+        "durationMs": 448.658,
+        "memoryBefore": {
+          "rss": 88571904,
+          "heapTotal": 33931264,
+          "heapUsed": 24359320,
+          "external": 1957914,
+          "arrayBuffers": 22931
+        },
+        "memoryAfter": {
+          "rss": 304562176,
+          "heapTotal": 247545856,
+          "heapUsed": 155812024,
+          "external": 1957918,
+          "arrayBuffers": 22895
+        },
+        "outputBytes": 680175
+      }
+    },
+    {
+      "type": "variant",
+      "variant": 9,
+      "source": ".next/static/chunks/481.95a70f7f5b863f9f.js",
+      "withoutWebcrack": "proteced-chunks/without-webcrack/variant-09__481.95a70f7f5b863f9f__without-webcrack.js",
+      "withWebcrack": "proteced-chunks/with-webcrack/variant-09__481.95a70f7f5b863f9f__with-webcrack.js",
+      "rawSha256": "f936673e1c563ebbadee6d76c47107f64f6eb1340e9b7bf97f7af9c6a0bbbf1e",
+      "webcrackSha256": "27525bdb898b0bd607360c496a03fa2d6b7decf840ffd14d3c0b1d821327b1a3",
+      "webcrack": {
+        "completed": true,
+        "attempts": [
+          {
+            "jsx": true,
+            "mode": "full",
+            "completed": false,
+            "error": "TypeError: Property expression of JSXExpressionContainer expected node to be of a type [\"Expression\",\"JSXEmptyExpression\"] but instead got \"SpreadElement\""
+          },
+          {
+            "jsx": false,
+            "mode": "full-fallback",
+            "completed": true
+          }
+        ],
+        "durationMs": 473.367,
+        "memoryBefore": {
+          "rss": 88227840,
+          "heapTotal": 34439168,
+          "heapUsed": 24002008,
+          "external": 1957914,
+          "arrayBuffers": 22931
+        },
+        "memoryAfter": {
+          "rss": 319291392,
+          "heapTotal": 240254976,
+          "heapUsed": 152974936,
+          "external": 1957918,
+          "arrayBuffers": 22895
+        },
+        "outputBytes": 663088
+      }
+    },
+    {
+      "type": "variant",
+      "variant": 10,
+      "source": ".next/static/chunks/974.5b186d5845dcb7c5.js",
+      "withoutWebcrack": "proteced-chunks/without-webcrack/variant-10__974.5b186d5845dcb7c5__without-webcrack.js",
+      "withWebcrack": "proteced-chunks/with-webcrack/variant-10__974.5b186d5845dcb7c5__with-webcrack.js",
+      "rawSha256": "bdb825431b13ecba833a69af30aa09f10a26c97be7e7a70d754c778a0dbb9a80",
+      "webcrackSha256": "2a9633e046474859665c5525a70c2b447712d092628adc7dfc71dc33874c0de4",
+      "webcrack": {
+        "completed": true,
+        "attempts": [
+          {
+            "jsx": true,
+            "mode": "full",
+            "completed": false,
+            "error": "TypeError: Property expression of JSXExpressionContainer expected node to be of a type [\"Expression\",\"JSXEmptyExpression\"] but instead got \"SpreadElement\""
+          },
+          {
+            "jsx": false,
+            "mode": "full-fallback",
+            "completed": true
+          }
+        ],
+        "durationMs": 447.301,
+        "memoryBefore": {
+          "rss": 88096768,
+          "heapTotal": 34177024,
+          "heapUsed": 23968552,
+          "external": 1957914,
+          "arrayBuffers": 22931
+        },
+        "memoryAfter": {
+          "rss": 309526528,
+          "heapTotal": 245792768,
+          "heapUsed": 131389952,
+          "external": 1957918,
+          "arrayBuffers": 22895
+        },
+        "outputBytes": 675894
+      }
+    },
+    {
+      "type": "variant",
+      "variant": 11,
+      "source": ".next/static/chunks/784.77abc92e047f6ffb.js",
+      "withoutWebcrack": "proteced-chunks/without-webcrack/variant-11__784.77abc92e047f6ffb__without-webcrack.js",
+      "withWebcrack": "proteced-chunks/with-webcrack/variant-11__784.77abc92e047f6ffb__with-webcrack.js",
+      "rawSha256": "ef94aac7f7809ba33eb4b52c27418998e04d314504fe41370fd5354a8d6b05e7",
+      "webcrackSha256": "14c21d5e19fad4b7bccd9072cbeea51f50a3f96292ef0b8c08e6fae1df885a91",
+      "webcrack": {
+        "completed": true,
+        "attempts": [
+          {
+            "jsx": true,
+            "mode": "full",
+            "completed": false,
+            "error": "TypeError: Property expression of JSXExpressionContainer expected node to be of a type [\"Expression\",\"JSXEmptyExpression\"] but instead got \"SpreadElement\""
+          },
+          {
+            "jsx": false,
+            "mode": "full-fallback",
+            "completed": true
+          }
+        ],
+        "durationMs": 413.28,
+        "memoryBefore": {
+          "rss": 88293376,
+          "heapTotal": 33898496,
+          "heapUsed": 24225520,
+          "external": 1957914,
+          "arrayBuffers": 22931
+        },
+        "memoryAfter": {
+          "rss": 304054272,
+          "heapTotal": 241795072,
+          "heapUsed": 166892984,
+          "external": 1957918,
+          "arrayBuffers": 22895
+        },
+        "outputBytes": 657396
+      }
+    },
+    {
+      "type": "variant",
+      "variant": 12,
+      "source": ".next/static/chunks/803.bdc3b25737e60906.js",
+      "withoutWebcrack": "proteced-chunks/without-webcrack/variant-12__803.bdc3b25737e60906__without-webcrack.js",
+      "withWebcrack": "proteced-chunks/with-webcrack/variant-12__803.bdc3b25737e60906__with-webcrack.js",
+      "rawSha256": "d4ad16e84565173700801b1e8b2b9dfa9e02a976019bc21b39d38b166444a2d2",
+      "webcrackSha256": "6420f940a510da734078455f060be544fa818aa14c66514f558d9c767f473d69",
+      "webcrack": {
+        "completed": true,
+        "attempts": [
+          {
+            "jsx": true,
+            "mode": "full",
+            "completed": false,
+            "error": "TypeError: Property expression of JSXExpressionContainer expected node to be of a type [\"Expression\",\"JSXEmptyExpression\"] but instead got \"SpreadElement\""
+          },
+          {
+            "jsx": false,
+            "mode": "full-fallback",
+            "completed": true
+          }
+        ],
+        "durationMs": 468.241,
+        "memoryBefore": {
+          "rss": 88014848,
+          "heapTotal": 33914880,
+          "heapUsed": 23975272,
+          "external": 1957914,
+          "arrayBuffers": 22931
+        },
+        "memoryAfter": {
+          "rss": 337248256,
+          "heapTotal": 258375680,
+          "heapUsed": 134193344,
+          "external": 1957918,
+          "arrayBuffers": 22895
+        },
+        "outputBytes": 671064
+      }
+    },
+    {
+      "type": "variant",
+      "variant": 13,
+      "source": ".next/static/chunks/546.8a5a0a4a7802fa5a.js",
+      "withoutWebcrack": "proteced-chunks/without-webcrack/variant-13__546.8a5a0a4a7802fa5a__without-webcrack.js",
+      "withWebcrack": "proteced-chunks/with-webcrack/variant-13__546.8a5a0a4a7802fa5a__with-webcrack.js",
+      "rawSha256": "ae0896c6a9dc911556204bff59a4f73c226b1ac399b76d05638e42c4c8223754",
+      "webcrackSha256": "429bda4a79d889a9b3afbe82ae34550ed4c98d3e6fdae9d7e8a7332f1d791495",
+      "webcrack": {
+        "completed": true,
+        "attempts": [
+          {
+            "jsx": true,
+            "mode": "full",
+            "completed": false,
+            "error": "TypeError: Property expression of JSXExpressionContainer expected node to be of a type [\"Expression\",\"JSXEmptyExpression\"] but instead got \"SpreadElement\""
+          },
+          {
+            "jsx": false,
+            "mode": "full-fallback",
+            "completed": true
+          }
+        ],
+        "durationMs": 418.947,
+        "memoryBefore": {
+          "rss": 88096768,
+          "heapTotal": 34160640,
+          "heapUsed": 23903200,
+          "external": 1957914,
+          "arrayBuffers": 22931
+        },
+        "memoryAfter": {
+          "rss": 302252032,
+          "heapTotal": 241582080,
+          "heapUsed": 113801776,
+          "external": 1957918,
+          "arrayBuffers": 22895
+        },
+        "outputBytes": 663978
+      }
+    },
+    {
+      "type": "variant",
+      "variant": 14,
+      "source": ".next/static/chunks/885.07e9cf0dfb5538a2.js",
+      "withoutWebcrack": "proteced-chunks/without-webcrack/variant-14__885.07e9cf0dfb5538a2__without-webcrack.js",
+      "withWebcrack": "proteced-chunks/with-webcrack/variant-14__885.07e9cf0dfb5538a2__with-webcrack.js",
+      "rawSha256": "d5f03f28e44d410e455408cbbbb1396a969b194a955fe5c5d172bbcc6b2ba49c",
+      "webcrackSha256": "ae02a1579452317ce9478f6ced4af1f8406005b6363bf2c335eb457a8648f8b7",
+      "webcrack": {
+        "completed": true,
+        "attempts": [
+          {
+            "jsx": true,
+            "mode": "full",
+            "completed": false,
+            "error": "TypeError: Property expression of JSXExpressionContainer expected node to be of a type [\"Expression\",\"JSXEmptyExpression\"] but instead got \"SpreadElement\""
+          },
+          {
+            "jsx": false,
+            "mode": "full-fallback",
+            "completed": true
+          }
+        ],
+        "durationMs": 449.158,
+        "memoryBefore": {
+          "rss": 88178688,
+          "heapTotal": 33914880,
+          "heapUsed": 23971392,
+          "external": 1957914,
+          "arrayBuffers": 22931
+        },
+        "memoryAfter": {
+          "rss": 301318144,
+          "heapTotal": 243171328,
+          "heapUsed": 137113032,
+          "external": 1957918,
+          "arrayBuffers": 22895
+        },
+        "outputBytes": 681555
+      }
+    },
+    {
+      "type": "variant",
+      "variant": 15,
+      "source": ".next/static/chunks/908.c37a971eb8de718c.js",
+      "withoutWebcrack": "proteced-chunks/without-webcrack/variant-15__908.c37a971eb8de718c__without-webcrack.js",
+      "withWebcrack": "proteced-chunks/with-webcrack/variant-15__908.c37a971eb8de718c__with-webcrack.js",
+      "rawSha256": "5703484aaa0dc5b65cbb9b7afab2e2389c8b8b808f6f35d1fde180410b50236b",
+      "webcrackSha256": "6ac6f160a8ad60e56b210771c12abbdd750b4e0380a5aac0b1f31a4a4bbd26cd",
+      "webcrack": {
+        "completed": true,
+        "attempts": [
+          {
+            "jsx": true,
+            "mode": "full",
+            "completed": false,
+            "error": "TypeError: Property expression of JSXExpressionContainer expected node to be of a type [\"Expression\",\"JSXEmptyExpression\"] but instead got \"SpreadElement\""
+          },
+          {
+            "jsx": false,
+            "mode": "full-fallback",
+            "completed": true
+          }
+        ],
+        "durationMs": 469.796,
+        "memoryBefore": {
+          "rss": 88096768,
+          "heapTotal": 34193408,
+          "heapUsed": 23976416,
+          "external": 1957914,
+          "arrayBuffers": 22931
+        },
+        "memoryAfter": {
+          "rss": 324091904,
+          "heapTotal": 241614848,
+          "heapUsed": 161509320,
+          "external": 1957918,
+          "arrayBuffers": 22895
+        },
+        "outputBytes": 664561
+      }
+    },
+    {
+      "type": "variant",
+      "variant": 16,
+      "source": ".next/static/chunks/47.546005bb12a431a8.js",
+      "withoutWebcrack": "proteced-chunks/without-webcrack/variant-16__47.546005bb12a431a8__without-webcrack.js",
+      "withWebcrack": "proteced-chunks/with-webcrack/variant-16__47.546005bb12a431a8__with-webcrack.js",
+      "rawSha256": "83467eefda1d5350241693f68a67a7eb2b7d2b6dad87e60d3626cacc897ec29c",
+      "webcrackSha256": "8fba46a3f6e4618929d4bed6b16d24911a29b6ea4904e76e9873f247d5bd8ab3",
+      "webcrack": {
+        "completed": true,
+        "attempts": [
+          {
+            "jsx": true,
+            "mode": "full",
+            "completed": false,
+            "error": "TypeError: Property expression of JSXExpressionContainer expected node to be of a type [\"Expression\",\"JSXEmptyExpression\"] but instead got \"SpreadElement\""
+          },
+          {
+            "jsx": false,
+            "mode": "full-fallback",
+            "completed": true
+          }
+        ],
+        "durationMs": 458.653,
+        "memoryBefore": {
+          "rss": 88457216,
+          "heapTotal": 33931264,
+          "heapUsed": 24346144,
+          "external": 1957914,
+          "arrayBuffers": 22931
+        },
+        "memoryAfter": {
+          "rss": 301268992,
+          "heapTotal": 246611968,
+          "heapUsed": 150893240,
+          "external": 1957918,
+          "arrayBuffers": 22895
+        },
+        "outputBytes": 681170
+      }
+    },
+    {
+      "type": "variant",
+      "variant": 17,
+      "source": ".next/static/chunks/942.fa9fc781c95f35bb.js",
+      "withoutWebcrack": "proteced-chunks/without-webcrack/variant-17__942.fa9fc781c95f35bb__without-webcrack.js",
+      "withWebcrack": "proteced-chunks/with-webcrack/variant-17__942.fa9fc781c95f35bb__with-webcrack.js",
+      "rawSha256": "ffcab65d3b33928df9da0790c3f32aa5b704a0d0fc7d3e25b0c55cd0037ecd18",
+      "webcrackSha256": "04a8c02ff3590905bc9b6608bfe2fae923f254e41d978b55d8613c644e85f0e6",
+      "webcrack": {
+        "completed": true,
+        "attempts": [
+          {
+            "jsx": true,
+            "mode": "full",
+            "completed": false,
+            "error": "TypeError: Property expression of JSXExpressionContainer expected node to be of a type [\"Expression\",\"JSXEmptyExpression\"] but instead got \"SpreadElement\""
+          },
+          {
+            "jsx": false,
+            "mode": "full-fallback",
+            "completed": true
+          }
+        ],
+        "durationMs": 451.741,
+        "memoryBefore": {
+          "rss": 88506368,
+          "heapTotal": 33931264,
+          "heapUsed": 24333968,
+          "external": 1957914,
+          "arrayBuffers": 22931
+        },
+        "memoryAfter": {
+          "rss": 301613056,
+          "heapTotal": 247005184,
+          "heapUsed": 144370200,
+          "external": 1957918,
+          "arrayBuffers": 22895
+        },
+        "outputBytes": 683235
+      }
+    },
+    {
+      "type": "variant",
+      "variant": 18,
+      "source": ".next/static/chunks/329.c3c5beb352824f2c.js",
+      "withoutWebcrack": "proteced-chunks/without-webcrack/variant-18__329.c3c5beb352824f2c__without-webcrack.js",
+      "withWebcrack": "proteced-chunks/with-webcrack/variant-18__329.c3c5beb352824f2c__with-webcrack.js",
+      "rawSha256": "c176d8caa44c904b888f73860dec4d6d8dec1adc02256586f6edb011c1cbefbf",
+      "webcrackSha256": "41e513c1b754a74eb76601b7d00a0989ae25e8a3a1a81d9e6718851a13364e0f",
+      "webcrack": {
+        "completed": true,
+        "attempts": [
+          {
+            "jsx": true,
+            "mode": "full",
+            "completed": false,
+            "error": "TypeError: Property expression of JSXExpressionContainer expected node to be of a type [\"Expression\",\"JSXEmptyExpression\"] but instead got \"SpreadElement\""
+          },
+          {
+            "jsx": false,
+            "mode": "full-fallback",
+            "completed": true
+          }
+        ],
+        "durationMs": 496.606,
+        "memoryBefore": {
+          "rss": 88145920,
+          "heapTotal": 34193408,
+          "heapUsed": 24136240,
+          "external": 1957914,
+          "arrayBuffers": 22931
+        },
+        "memoryAfter": {
+          "rss": 343293952,
+          "heapTotal": 263405568,
+          "heapUsed": 158276664,
+          "external": 1957918,
+          "arrayBuffers": 22895
+        },
+        "outputBytes": 675832
+      }
+    },
+    {
+      "type": "variant",
+      "variant": 19,
+      "source": ".next/static/chunks/936.a35fe473ef1563fc.js",
+      "withoutWebcrack": "proteced-chunks/without-webcrack/variant-19__936.a35fe473ef1563fc__without-webcrack.js",
+      "withWebcrack": "proteced-chunks/with-webcrack/variant-19__936.a35fe473ef1563fc__with-webcrack.js",
+      "rawSha256": "aea84d02cc47e284ae297f00706c99136e45a184f2fde6f782600ed222500d62",
+      "webcrackSha256": "53b535512f7d087149c4dfe8077bb451662acf539442ccb675558dd2fedbe7fd",
+      "webcrack": {
+        "completed": true,
+        "attempts": [
+          {
+            "jsx": true,
+            "mode": "full",
+            "completed": false,
+            "error": "TypeError: Property expression of JSXExpressionContainer expected node to be of a type [\"Expression\",\"JSXEmptyExpression\"] but instead got \"SpreadElement\""
+          },
+          {
+            "jsx": false,
+            "mode": "full-fallback",
+            "completed": true
+          }
+        ],
+        "durationMs": 429.851,
+        "memoryBefore": {
+          "rss": 88211456,
+          "heapTotal": 33914880,
+          "heapUsed": 24244000,
+          "external": 1957914,
+          "arrayBuffers": 22931
+        },
+        "memoryAfter": {
+          "rss": 301744128,
+          "heapTotal": 248184832,
+          "heapUsed": 122631784,
+          "external": 1957918,
+          "arrayBuffers": 22895
+        },
+        "outputBytes": 669903
+      }
+    },
+    {
+      "type": "shared",
+      "variant": null,
+      "source": ".next/static/chunks/780.c7a399451ab53a84.js",
+      "withoutWebcrack": "proteced-chunks/without-webcrack/shared-protection__780.c7a399451ab53a84__without-webcrack.js",
+      "withWebcrack": "proteced-chunks/with-webcrack/shared-protection__780.c7a399451ab53a84__with-webcrack.js",
+      "rawSha256": "2eaea3f31e64c9dee904f337a59a5eaf1d65190e7aaf46cceedac7863ab5e278",
+      "webcrackSha256": "b045343c155f3a7833ec5be5863fef83792b98ceef7c769769ab06c29332e5e1",
+      "webcrack": {
+        "completed": true,
+        "attempts": [
+          {
+            "jsx": true,
+            "mode": "full",
+            "completed": true
+          }
+        ],
+        "durationMs": 894.245,
+        "memoryBefore": {
+          "rss": 89014272,
+          "heapTotal": 33882112,
+          "heapUsed": 24278816,
+          "external": 1957914,
+          "arrayBuffers": 22931
+        },
+        "memoryAfter": {
+          "rss": 482476032,
+          "heapTotal": 385155072,
+          "heapUsed": 274479544,
+          "external": 1957918,
+          "arrayBuffers": 22895
+        },
+        "outputBytes": 1125306
+      }
+    }
+  ]
+}

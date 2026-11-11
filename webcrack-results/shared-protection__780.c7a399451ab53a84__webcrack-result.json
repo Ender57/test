@@ -1,0 +1,1 @@
+{"completed":true,"attempts":[{"jsx":true,"mode":"full","completed":true}],"durationMs":894.245,"memoryBefore":{"rss":89014272,"heapTotal":33882112,"heapUsed":24278816,"external":1957914,"arrayBuffers":22931},"memoryAfter":{"rss":482476032,"heapTotal":385155072,"heapUsed":274479544,"external":1957918,"arrayBuffers":22895},"outputBytes":1125306}
